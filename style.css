@@ -1,0 +1,36 @@
+.heading{
+    font-size: 23px;
+    width:100% ;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    text-shadow: 5px 5px 5px grey;
+
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+
+}
+body{
+    background: linear-gradient(#cdb4db 0%,#a2d2ff 100%)  ;
+}
+
+.footer{
+  
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    background-color: antiquewhite;
+    text-align: center;
+    font-weight: bold;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    
+    
+    
+}
